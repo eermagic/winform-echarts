@@ -1,0 +1,11 @@
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\bin\Debug\WinFormEcharts.exe.config
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\bin\Debug\WinFormEcharts.exe
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\bin\Debug\WinFormEcharts.pdb
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.csproj.AssemblyReference.cache
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.csproj.SuggestedBindingRedirects.cache
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.Properties.Resources.resources
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.csproj.GenerateResource.cache
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.csproj.CoreCompileInputs.cache
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.exe
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.pdb
+D:\Project\Teach\WinFormEcharts\WinFormEcharts\obj\Debug\WinFormEcharts.Form1.resources
